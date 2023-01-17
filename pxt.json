@@ -2,7 +2,8 @@
     "name": "ext 2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "ext 1": "github:eanders-ms/ext-1#master"
     },
     "files": [
         "main.blocks",
